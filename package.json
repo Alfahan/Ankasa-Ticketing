@@ -1,0 +1,24 @@
+{
+  "name": "ankasa-ticketing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfahan/Ankasa-Ticketing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alfahan/Ankasa-Ticketing/issues"
+  },
+  "homepage": "https://github.com/Alfahan/Ankasa-Ticketing#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "server-static": "^2.0.5"
+  }
+}
