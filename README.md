@@ -27,6 +27,7 @@ You Can try This App : http://bit.ly/Ankasa-Ticketing
 ![forgot](https://user-images.githubusercontent.com/47838819/94762320-8cc98f80-03d1-11eb-9262-e67bc6f68fee.PNG)
 ### Search
 ![search](https://user-images.githubusercontent.com/47838819/94762336-9652f780-03d1-11eb-9ff9-5cf80846a330.PNG)
+noted: 1 Desember 2020 for data flight
 ### User Profile Page
 ![user](https://user-images.githubusercontent.com/47838819/94762349-9bb04200-03d1-11eb-872a-2cc873b905dd.PNG)
 ### FLight Page
