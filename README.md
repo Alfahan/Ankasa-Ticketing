@@ -12,7 +12,7 @@ This Repository Front-End : https://github.com/Alfahan/ankasa.git
 
 This Repository Back-End : https://github.com/Alfahan/Ankasa-Backend.git
 
-You Can try This App : https://bityl.co/47hO
+You Can try This App : http://bit.ly/Ankasa-Ticketing
 
 
 # Preview
